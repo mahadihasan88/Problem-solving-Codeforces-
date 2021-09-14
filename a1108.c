@@ -1,0 +1,1 @@
+#include<stdio.h>int main(){    int a,b,c,d,k=0,m=0;    int q;    scanf("%d%d%d%d",&a,&b,&c,&d);    k=a;    if(a==c)    {        m=d;    }    printf("%d %d\n",k,m);    return 0;}
